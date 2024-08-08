@@ -1,0 +1,14 @@
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\bin\Debug\net8.0\GiaoHang.exe
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\bin\Debug\net8.0\GiaoHang.deps.json
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\bin\Debug\net8.0\GiaoHang.runtimeconfig.json
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\bin\Debug\net8.0\GiaoHang.dll
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\bin\Debug\net8.0\GiaoHang.pdb
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\GiaoHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\GiaoHang.AssemblyInfoInputs.cache
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\GiaoHang.AssemblyInfo.cs
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\GiaoHang.csproj.CoreCompileInputs.cache
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\GiaoHang.dll
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\refint\GiaoHang.dll
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\GiaoHang.pdb
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\GiaoHang.genruntimeconfig.cache
+D:\nhat\HKHè\Nhóm\Phan03\GiaoHang\obj\Debug\net8.0\ref\GiaoHang.dll

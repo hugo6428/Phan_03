@@ -1,0 +1,14 @@
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\bin\Debug\net8.0\ToHop.exe
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\bin\Debug\net8.0\ToHop.deps.json
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\bin\Debug\net8.0\ToHop.runtimeconfig.json
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\bin\Debug\net8.0\ToHop.dll
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\bin\Debug\net8.0\ToHop.pdb
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\ToHop.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\ToHop.AssemblyInfoInputs.cache
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\ToHop.AssemblyInfo.cs
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\ToHop.csproj.CoreCompileInputs.cache
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\ToHop.dll
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\refint\ToHop.dll
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\ToHop.pdb
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\ToHop.genruntimeconfig.cache
+D:\nhat\HKHè\Nhóm\Phan03\ToHop\obj\Debug\net8.0\ref\ToHop.dll

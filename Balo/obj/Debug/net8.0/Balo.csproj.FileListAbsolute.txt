@@ -1,0 +1,14 @@
+D:\nhat\HKHè\Nhóm\Phan03\Balo\bin\Debug\net8.0\Balo.exe
+D:\nhat\HKHè\Nhóm\Phan03\Balo\bin\Debug\net8.0\Balo.deps.json
+D:\nhat\HKHè\Nhóm\Phan03\Balo\bin\Debug\net8.0\Balo.runtimeconfig.json
+D:\nhat\HKHè\Nhóm\Phan03\Balo\bin\Debug\net8.0\Balo.dll
+D:\nhat\HKHè\Nhóm\Phan03\Balo\bin\Debug\net8.0\Balo.pdb
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\Balo.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\Balo.AssemblyInfoInputs.cache
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\Balo.AssemblyInfo.cs
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\Balo.csproj.CoreCompileInputs.cache
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\Balo.dll
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\refint\Balo.dll
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\Balo.pdb
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\Balo.genruntimeconfig.cache
+D:\nhat\HKHè\Nhóm\Phan03\Balo\obj\Debug\net8.0\ref\Balo.dll

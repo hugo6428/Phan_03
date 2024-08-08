@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED8D34E-1BD5-4C23-83A2-477DC7D2D1B2}|Balo\\Balo.csproj|d:\\nhat\\hkh\u00E8\\nh\u00F3m\\phan03\\balo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED8D34E-1BD5-4C23-83A2-477DC7D2D1B2}|Balo\\Balo.csproj|solutionrelative:balo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E63AE84-B70C-49DE-BA0D-2287D01B3755}|GiaoHang\\GiaoHang.csproj|d:\\nhat\\hkh\u00E8\\nh\u00F3m\\phan03\\giaohang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E63AE84-B70C-49DE-BA0D-2287D01B3755}|GiaoHang\\GiaoHang.csproj|solutionrelative:giaohang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC1798E-4545-402D-A460-F9688053A619}|ToHop\\ToHop.csproj|d:\\nhat\\hkh\u00E8\\nh\u00F3m\\phan03\\tohop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC1798E-4545-402D-A460-F9688053A619}|ToHop\\ToHop.csproj|solutionrelative:tohop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan03\\GiaoHang\\Program.cs",
+              "RelativeDocumentMoniker": "GiaoHang\\Program.cs",
+              "ToolTip": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan03\\GiaoHang\\Program.cs",
+              "RelativeToolTip": "GiaoHang\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:13:31.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan03\\Balo\\Program.cs",
+              "RelativeDocumentMoniker": "Balo\\Program.cs",
+              "ToolTip": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan03\\Balo\\Program.cs",
+              "RelativeToolTip": "Balo\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:56:40.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan03\\ToHop\\Program.cs",
+              "RelativeDocumentMoniker": "ToHop\\Program.cs",
+              "ToolTip": "D:\\nhat\\HKH\u00E8\\Nh\u00F3m\\Phan03\\ToHop\\Program.cs",
+              "RelativeToolTip": "ToHop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:48:54.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
